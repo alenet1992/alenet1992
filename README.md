@@ -1,5 +1,5 @@
 # Hi, I'm Alexandre Pereira!👨‍💻👋
- 
+
 
 ### Technologies I use daily:
 
@@ -8,9 +8,10 @@
   <img align="center" alt="alenet1992-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alenet1992-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alenet1992-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="alenet1992-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="alenet1992-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="alenet1992-MaterialUi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="alenet1992l-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="alenet1992l-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ### How can you reach me:
