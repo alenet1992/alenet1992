@@ -1,6 +1,6 @@
 # Hi, I'm Alexandre Pereira!👨‍💻👋
+ 
 
-<img src="readme.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="human web"> 
 ### Technologies I use daily:
 
 <div style="display: inline_block"><br>
